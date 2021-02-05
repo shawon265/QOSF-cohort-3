@@ -1,8 +1,8 @@
 # QOSF-cohort-3
-## Submitted By: **Shadman Shahriar**
+## Submitted By: ***Shadman Shahriar***
 - Group Name: QuIRCy
 - Other Group Members: Sowmitra Das, Tanvir Ahmed
-## Submitted Problem: **Task 2**
+## Submitted Problem: ***Task 2***
 The bit-flip code and the sign-flip code (you can find a description of both here) are two very simple circuits able to detect and fix the bit-flip and the sign-flip errors, respectively.
 1.  Build the following simple circuit to prepare the Bell state:<br><img src="https://github.com/shawon265/QOSF-cohort-3/blob/main/images/qosf3task2ques.png?raw=true">
 2. Now add, right before the CNOT gate and for each of the two qubits, an arbitrary “error gate”. By error gate we mean that with a certain probability (that you can decide but must be non-zero for all the choices) you have a 1 qubit unitary which can be either the identity, or the X gate (bit-flip error) or the Z gate (sign-flip error).

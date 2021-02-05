@@ -2,7 +2,7 @@
 ## *Submitted By*: Shadman Shahriar
 - Group Name: QuIRCy
 - Other Group Members: Sowmitra Das, Tanvir Ahmed
-## *Submitted Task*: [Task 2](/QOSF3Task2.ipynb)
+## *Submitted Task*: [Task 2](/QOSF3task2.ipynb)
 The bit-flip code and the sign-flip code (you can find a description of both here) are two very simple circuits able to detect and fix the bit-flip and the sign-flip errors, respectively.
 1.  Build the following simple circuit to prepare the Bell state:<br>
 ![QOSF3 Task2 Question](/images/qosf3task2ques.png "Bell Pair Creating Circuit")

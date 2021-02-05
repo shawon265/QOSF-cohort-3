@@ -1,6 +1,7 @@
 # QOSF-cohort-3
 ## *Submitted By*: <span style="color:red">Shadman Shahriar</span>
 - Group Name: QuIRCy
+- <span style="color:red">Shadman Shahriar</span>
 - Other Group Members: Sowmitra Das, Tanvir Ahmed
 ## *Submitted Task*: [Task 2](/QOSF3task2.pdf)
 The bit-flip code and the sign-flip code (you can find a description of both here) are two very simple circuits able to detect and fix the bit-flip and the sign-flip errors, respectively.

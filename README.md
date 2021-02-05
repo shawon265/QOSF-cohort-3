@@ -1,5 +1,5 @@
 # QOSF-cohort-3
-## Submitted by: Shadman Shahriar
+## Submitted By: Shadman Shahriar
 - Group Name: QuIRCy
 - Other Group Members: Sowmitra Das, Tanvir Ahmed
 ## Submitted Problem: Task 2 
